@@ -1,4 +1,7 @@
-# computer-networks
-Computer Networks (COMP130136.01), 2019/2020, 1
+# protocol-analysis
+
+Analysis of DNS, HTTP and TCP protocols based on Wireshark
+
 ## Author
+
 Zhongyu Chen
