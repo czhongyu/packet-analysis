@@ -1,6 +1,6 @@
-# protocol-analysis
+# packet-analysis
 
-Analysis of DNS, HTTP and TCP protocols based on Wireshark
+Analysis of DNS, HTTP, TCP protocols and NAT based on Wireshark
 
 ## Author
 
